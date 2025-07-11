@@ -4,7 +4,7 @@ Welcome to the **source code** of my personal digital garden, built with [Quartz
 This is where I keep my notes, reflections, small life insights, and technical explorations — all woven together in a living repository of my mind.
 
 🖥 **Explore the live site here:**  
-👉 [https://nicurrego.github.io/my_mind/](https://nicurrego.github.io/my_mind/)
+👉 [my mind](https://nicurrego.github.io/my_mind/)
 
 ---
 
