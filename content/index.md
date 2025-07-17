@@ -13,7 +13,7 @@ Here you'll find:
 - 🌱 **Life Observations:** Small moments and realizations, because I believe even the mundane can whisper extraordinary truths.
 
 > 🚀 **Want to see my professional work?**  
-> Check out my [IT Portfolio](https://nicurrego.github.io/portfolio/) — where I showcase my software and AI projects.
+> Check out my [IT Portfolio](https://nicurrego.github.io/portfolio-site/) — where I showcase my software and AI projects.
 
 ---
 
