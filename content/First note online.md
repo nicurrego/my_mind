@@ -2,7 +2,7 @@ This is only a trial where I test how the deployment is doing.
 
 > **Portfolio:**  
 > See my professional projects and profile at  
-> 👉 [https://nicurrego.github.io/portfolio-site/](https://nicurrego.github.io/portfolio-site/)
+> 👉 [https://nicurrego.github.io/portfolio/](https://nicurrego.github.io/portfolio-site/)
 
 Check out my [IT Portfolio](https://nicurrego.github.io/portfolio-site/) — where I showcase my software and AI projects.
 
