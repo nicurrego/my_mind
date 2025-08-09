@@ -1,8 +1,8 @@
 2025-08-08 17:47
 
-Tags:[[new]], [[Amor]], [[Enamorado]], [[Aimi Sasaki]].
+Tags [[Amor]], [[Enamorado]], [[ella]].
 
-# Casi me había salvado
+# Casi me habia salvado
 
 ¿Cómo es posible que mi estado mental se haya visto afectado y completamente dominado con un simple mensaje de ella?
 
