@@ -1,7 +1,5 @@
 2024-07-28 14:10
 
-Status:
-
 Tags: [[Proyectos]], [[IT]], [[IA]], [[creatividad]], [[Simuladores]].
 
 # Videojuegos
